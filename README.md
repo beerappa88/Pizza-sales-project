@@ -1,4 +1,3 @@
-# Pizza-Sales-Project-SQL-PowerBI
 # Pizza Sales Project
 
 ## Overview
